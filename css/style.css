@@ -1,0 +1,15 @@
+
+body{
+    background-color: #ccc;
+}
+
+.principal{
+    margin-top: 50px;
+    text-align: center;
+}
+
+img{
+    margin-top: 50px;
+    width: 600px;
+    height: 400px;
+}
